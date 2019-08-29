@@ -8,10 +8,20 @@ public class MovieDemo {
 
         ArrayList<Movie> movies = loadAllMovies();
 
+        // assume first movie has the longest title
+        Movie movieWithLongestName = movies.get(0);
+        Movie movieReleasedEarliest = movies.get(0);
         for (Movie m : movies)
         {
-            System.out.println(m);
+            if (m.hasLongerNameThan(movieWithLongestName)){
+                movieWithLongestName = m;
+            }
+            if (m.wasReleasedBefore(movieReleasedEarliest)){
+                movieReleasedEarliest = m;
+            }
         }
+        System.out.println(movieWithLongestName);
+        System.out.println(movieReleasedEarliest);
     }
 
     public static ArrayList<Movie> loadAllMovies() throws FileNotFoundException {

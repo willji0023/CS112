@@ -1,4 +1,4 @@
-public class Movie implements ComplicatedCompare {
+public class Movie implements ComplicatedCompare, MovieNameCheck {
     private String name;
     private int year;
     private String genre;
@@ -26,7 +26,12 @@ public class Movie implements ComplicatedCompare {
     }
 
     @Override
-    public boolean hasLongerTitleThan(Movie other) {
-        return name.length() > other.name.length();
+    public boolean hasLongerNameThan(Movie other) {
+        return name.length() > other.getName().length();
+    }
+
+    @Override
+    public boolean wasReleasedBefore(Movie m) {
+        return year < m.getYear();
     }
 }
