@@ -11,8 +11,12 @@ public class BankAccount {
         }
     }
 
-    public void writeCheck(double amount){
-        balance -= amount;
+    public void writeCheck(double amount) throws InsufficientFundsException {
+        if (amount <= balance){
+            balance -= amount;
+        } else {
+            throw new InsufficientFundsException(balance, amount);
+        }
     }
 
     public String toString(){
