@@ -36,7 +36,7 @@ public class Example5 extends JFrame {
         me.add(notax);
         taxPanel.add(tax);
         taxPanel.add(notax);
-        taxPanel.setBorder((BorderFactory.createTitledBorder("Tax Options")));
+            taxPanel.setBorder((BorderFactory.createTitledBorder("Tax Options")));
 
         super.add(taxPanel, BorderLayout.SOUTH);
 
