@@ -26,13 +26,19 @@ public class  WordList
   {
     ArrayList<String> data = load();
 
-    Example1.bubbleSort(data);
+    long startTime = System.currentTimeMillis();
+    // Example1.bubbleSort(data);
+    Example2.selectionSort(data);
+    // Example3.insertionSort(data);
+    long endTime = System.currentTimeMillis();
+    long runTime = endTime - startTime;
 
     for (String word : data)
     {
       System.out.println(word);
     }
-    System.out.println("Swaps: " + Example1.numSwaps);
-    System.out.println("Iterations: " + Example1.numIterations);
+    System.out.println("Swaps: " + Example2.numSwaps);
+    System.out.println("Iterations: " + Example2.numIterations);
+    System.out.println("Run time: " + runTime);
   }
 }
