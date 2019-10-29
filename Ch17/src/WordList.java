@@ -28,8 +28,9 @@ public class  WordList
 
     long startTime = System.currentTimeMillis();
     // Example1.bubbleSort(data);
-    Example2.selectionSort(data);
+    // Example2.selectionSort(data);
     // Example3.insertionSort(data);
+    Example4.quickSort(data);
     long endTime = System.currentTimeMillis();
     long runTime = endTime - startTime;
 
