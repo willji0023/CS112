@@ -55,7 +55,7 @@ public class OldestCarByFile {
             scanner.nextLine();
             while (scanner.hasNext()) {
                 String newLine = scanner.nextLine();
-                list.add(newLine.split("\t", 3));
+                list.add(newLine.split("\t", 4));
             }
             quickSort(list);
 
@@ -63,15 +63,24 @@ public class OldestCarByFile {
                 if (list.get(i)[0].equalsIgnoreCase(list.get(i + 1)[0]) && list.get(i)[2].compareTo(list.get(i + 1)[2]) > 0) {
                     list.remove(i);
                     i--;
-                } else if (list.get(i)[0].equalsIgnoreCase(list.get(i + 1)[0]) && list.get(i)[2].compareTo(list.get(i + 1)[2]) <= 0) {
+                } else if (list.get(i)[0].equalsIgnoreCase(list.get(i + 1)[0]) && list.get(i)[2].compareTo(list.get(i + 1)[2]) < 0) {
                     list.remove(i + 1);
                     i--;
+                } else if (list.get(i)[0].equalsIgnoreCase(list.get(i + 1)[0]) && list.get(i)[2].equalsIgnoreCase(list.get(i + 1)[2])) {
+                    if (list.get(i)[3].compareToIgnoreCase(list.get(i+1)[3]) > 0) {
+                        list.remove(i);
+                        i--;
+                    }
+                    else {
+                        list.remove(i + 1);
+                        i--;
+                    }
                 }
             }
 
             System.out.println("Oldest cars by make");
             for (String[] car : list) {
-                System.out.printf("%15s%25s%5s\n", car[0], car[1], car[2]);
+                System.out.printf("%15s%25s%5s%18s\n", car[0], car[1], car[2], car[3]);
             }
             System.out.println(list.size() + " result(s)");
         } catch (FileNotFoundException e) {

@@ -48,11 +48,11 @@ public class CarMakersYears {
     public static void main(String[] args) {
         try {
             ArrayList<String[]> list = new ArrayList<>();
-            Scanner scanner = new Scanner(new File("cars.txt"));
+            Scanner scanner = new Scanner(new File("car-list.txt"));
             scanner.nextLine();
             while (scanner.hasNext()) {
                 String newLine = scanner.nextLine();
-                list.add(newLine.split("\t", 3));
+                list.add(newLine.split("\t", 4));
             }
             // quickSort(list);
 
@@ -66,17 +66,23 @@ public class CarMakersYears {
                 if (list.get(i)[0].equals(make) && list.get(i)[2].compareToIgnoreCase(oldestYear) < 0) {
                     oldestPos = i;
                     oldestYear = list.get(i)[2];
+                } else if (list.get(i)[0].equals(make) && list.get(i)[2].equalsIgnoreCase(oldestYear) && list.get(i)[3].compareToIgnoreCase(list.get(oldestPos)[3]) < 0) {
+                    oldestPos = i;
+                    oldestYear = list.get(i)[2];
                 }
                 if (list.get(i)[0].equals(make) && list.get(i)[2].compareToIgnoreCase(newestYear) > 0) {
+                    newestPos = i;
+                    newestYear = list.get(i)[2];
+                } else if (list.get(i)[0].equals(make) && list.get(i)[2].equalsIgnoreCase(newestYear) && list.get(i)[3].compareToIgnoreCase(list.get(newestPos)[3]) > 0) {
                     newestPos = i;
                     newestYear = list.get(i)[2];
                 }
             }
 
             System.out.println("Oldest " + make);
-            System.out.printf("%15s%25s%5s\n", list.get(oldestPos)[0], list.get(oldestPos)[1], list.get(oldestPos)[2]);
+            System.out.printf("%15s%25s%5s%18s\n", list.get(oldestPos)[0], list.get(oldestPos)[1], list.get(oldestPos)[2], list.get(oldestPos)[3]);
             System.out.println("Newest " + make);
-            System.out.printf("%15s%25s%5s\n", list.get(newestPos)[0], list.get(newestPos)[1], list.get(newestPos)[2]);
+            System.out.printf("%15s%25s%5s%18s\n", list.get(newestPos)[0], list.get(newestPos)[1], list.get(newestPos)[2], list.get(newestPos)[3]);
 
         } catch (FileNotFoundException e) {
             System.out.println("File not found");
