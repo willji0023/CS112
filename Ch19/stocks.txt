@@ -1,0 +1,1001 @@
+ticket	name	industry	price
+BPI	Bridgepoint Education, Inc.	Other Consumer Services	$38.95
+DSW	DSW Inc.	Clothing/Shoe/Accessory Stores	$13.54
+CRM	Salesforce.com Inc	Computer Software: Prepackaged Software	$38.64
+VOD	Vodafone Group Plc	Telecommunications Equipment	$29.55
+AEH	Aegon NV	Life Insurance	$28.31
+GLDI	X-Links Gold Shares Covered Call ETN	Investment Bankers/Brokers/Service	$25.17
+MELR	Melrose Bancorp, Inc.	Major Banks	$33.75
+CINR	Ciner Resources LP	Mining & Quarrying of Nonmetallic Minerals (No Fuels)	$25.31
+XENT	Intersect ENT, Inc.	Medical/Dental Instruments	$26.12
+MIIIW	M III Acquisition Corp.	Business Services	$13.85
+IOSP	Innospec Inc.	Major Chemicals	$22.30
+ACN	Accenture plc	Business Services	$13.93
+BBP	BioShares Biotechnology Products Fund	n/a	$42.77
+WF	Woori Bank	Commercial Banks	$30.72
+CLRBZ	Cellectar Biosciences, Inc.	Major Pharmaceuticals	$46.00
+HPE	Hewlett Packard Enterprise Company	Computer Manufacturing	$14.07
+DNBF	DNB Financial Corp	Major Banks	$17.71
+MSGN	MSG Networks Inc.	Television Services	$29.45
+MMT	MFS Multimarket Income Trust	n/a	$29.02
+RPAI	Retail Properties of America, Inc.	Real Estate Investment Trusts	$33.99
+COO	Cooper Companies, Inc. (The)	Ophthalmic Goods	$49.53
+AI^B	Arlington Asset Investment Corp	n/a	$27.75
+HNNA	Hennessy Advisors, Inc.	Investment Managers	$47.43
+ARII	American Railcar Industries, Inc.	Railroads	$20.61
+MTL	Mechel PAO	Steel/Iron Ore	$43.38
+NAII	Natural Alternatives International, Inc.	Specialty Chemicals	$14.18
+HES^A	Hess Corporation	n/a	$17.72
+AEIS	Advanced Energy Industries, Inc.	Industrial Machinery/Components	$42.15
+GTLS	Chart Industries, Inc.	Metal Fabrications	$29.78
+ABAX	ABAXIS, Inc.	Industrial Machinery/Components	$42.89
+LOGI	Logitech International S.A.	Computer peripheral equipment	$20.76
+RNDB	Randolph Bancorp, Inc.	Major Banks	$40.23
+ONVO	Organovo Holdings, Inc.	Biotechnology: Biological Products (No Diagnostic Substances)	$36.47
+CAPL	CrossAmerica Partners LP	Oil Refining/Marketing	$37.54
+KCAP	KCAP Financial, Inc.	n/a	$41.14
+TMHC	Taylor Morrison Home Corporation	Homebuilding	$33.13
+PKY	Parkway, Inc.	n/a	$16.45
+TUSK	Mammoth Energy Services, Inc.	Oilfield Services/Equipment	$40.17
+MGP	MGM Growth Properties LLC	Real Estate Investment Trusts	$38.93
+JBR	Select Asset Inc.	Finance: Consumer Services	$39.58
+GTIM	Good Times Restaurants Inc.	Restaurants	$42.41
+TSLX	TPG Specialty Lending, Inc.	n/a	$16.43
+EVG	Eaton Vance Short Diversified Income Fund	n/a	$49.40
+FNK	First Trust Mid Cap Value AlphaDEX Fund	n/a	$43.23
+CLVS	Clovis Oncology, Inc.	Major Pharmaceuticals	$12.19
+HTLD	Heartland Express, Inc.	Trucking Freight/Courier Services	$32.50
+PBFX	PBF Logistics LP	Natural Gas Distribution	$30.11
+BXC	BlueLinx Holdings Inc.	Wholesale Distributors	$48.39
+CYOU	Changyou.com Limited	Computer Software: Prepackaged Software	$10.76
+FRC^C	FIRST REPUBLIC BANK	n/a	$24.31
+HOG	Harley-Davidson, Inc.	Motor Vehicles	$20.09
+ONSIZ	Oncobiologics, Inc.	Biotechnology: Biological Products (No Diagnostic Substances)	$49.21
+AMX	America Movil, S.A.B. de C.V.	Telecommunications Equipment	$33.96
+MDWD	MediWound Ltd.	Specialty Chemicals	$49.83
+JBLU	JetBlue Airways Corporation	Air Freight/Delivery Services	$28.50
+DIAX	Nuveen Dow 30SM Dynamic Overwrite Fund	n/a	$20.78
+DDBI	Legg Mason Developed EX-US Diversified Core ETF	n/a	$35.97
+NEWTZ	Newtek Business Services Corp.	n/a	$10.11
+GNMA	iShares GNMA Bond ETF	n/a	$33.81
+EOD	Wells Fargo Global Dividend Opportunity Fund	n/a	$27.97
+UVSP	Univest Corporation of Pennsylvania	Major Banks	$39.02
+AZRX	AzurRx BioPharma, Inc.	n/a	$18.17
+VUZI	Vuzix Corporation	Radio And Television Broadcasting And Communications Equipment	$38.44
+FCAU	Fiat Chrysler Automobiles N.V.	Auto Manufacturing	$14.81
+INSW	International Seaways, Inc.	Marine Transportation	$40.58
+PYPL	PayPal Holdings, Inc.	Business Services	$25.69
+NGHCP	National General Holdings Corp	Property-Casualty Insurers	$16.55
+AQXP	Aquinox Pharmaceuticals, Inc.	Major Pharmaceuticals	$16.77
+FONR	Fonar Corporation	Biotechnology: Electromedical & Electrotherapeutic Apparatus	$27.96
+TAPR	Barclays Inverse US Treasury Composite ETN	Commercial Banks	$16.18
+DM	Dominion Energy Midstream Partners, LP	Natural Gas Distribution	$33.63
+HFBL	Home Federal Bancorp, Inc. of Louisiana	Savings Institutions	$46.87
+JBSS	John B. Sanfilippo & Son, Inc.	Specialty Foods	$24.09
+FUNC	First United Corporation	Major Banks	$15.14
+IBCP	Independent Bank Corporation	Major Banks	$17.72
+TPIV	TapImmune Inc.	Major Pharmaceuticals	$24.05
+ESTE	Earthstone Energy, Inc.	Oil & Gas Production	$39.50
+GBLIL	Global Indemnity Limited	Property-Casualty Insurers	$32.54
+BLX	Banco Latinoamericano de Comercio Exterior, S.A.	Commercial Banks	$17.78
+LTRPA	Liberty TripAdvisor Holdings, Inc.	EDP Services	$10.41
+PRSS	CafePress Inc.	Other Specialty Stores	$47.32
+XNET	Xunlei Limited	Computer Software: Prepackaged Software	$34.69
+SCE^J	Southern California Edison Company	n/a	$46.52
+CPTAL	Capitala Finance Corp.	n/a	$20.01
+DRE	Duke Realty Corporation	Real Estate Investment Trusts	$10.72
+HMNY	Helios and Matheson Analytics Inc	Other Consumer Services	$37.86
+CBL^E	CBL & Associates Properties, Inc.	n/a	$29.78
+TCBIP	Texas Capital Bancshares, Inc.	Major Banks	$47.79
+CHSP	Chesapeake Lodging Trust	Real Estate Investment Trusts	$18.13
+UA	Under Armour, Inc.	Apparel	$29.88
+UBNK	United Financial Bancorp, Inc. 	Banks	$28.54
+SNGX	Soligenix, Inc.	Major Pharmaceuticals	$28.73
+KCAP	KCAP Financial, Inc.	n/a	$19.77
+PSCD	PowerShares S&P SmallCap Consumer Discretionary Portfolio	n/a	$12.82
+AXAR	Axar Acquisition Corp.	Business Services	$45.92
+NATI	National Instruments Corporation	Computer Software: Prepackaged Software	$35.49
+EROS	Eros International PLC	Movies/Entertainment	$43.34
+ABTX	Allegiance Bancshares, Inc.	Major Banks	$27.01
+NORD	Nord Anglia Education, Inc.	Other Consumer Services	$18.76
+BIG	Big Lots, Inc.	Department/Specialty Retail Stores	$30.39
+DFT^C	Dupont Fabros Technology, Inc.	n/a	$19.89
+MAN	ManpowerGroup	Professional Services	$27.27
+HBNC	Horizon Bancorp (IN)	Major Banks	$43.24
+ECA	Encana Corporation	Oil & Gas Production	$40.04
+CTMX	CytomX Therapeutics, Inc.	Major Pharmaceuticals	$47.23
+PPX	PPL Capital Funding, Inc.	Electric Utilities: Central	$20.50
+UCP	UCP, Inc.	Homebuilding	$35.56
+ORAN	Orange	Telecommunications Equipment	$10.49
+MAYS	J. W. Mays, Inc.	Building operators	$22.02
+HBM.WS	Hudbay Minerals Inc.	n/a	$38.27
+TCBK	TriCo Bancshares	Major Banks	$16.86
+NEV	Nuveen Enhanced Municipal Value Fund	n/a	$43.82
+APOPW	Cellect Biotechnology Ltd.	n/a	$25.41
+EVC	Entravision Communications Corporation	Broadcasting	$32.25
+LN	LINE Corporation	Computer Software: Programming, Data Processing	$28.73
+ABTL	Autobytel Inc.	Computer Software: Programming, Data Processing	$29.22
+PSMT	PriceSmart, Inc.	Department/Specialty Retail Stores	$19.25
+DMLP	Dorchester Minerals, L.P.	Oil & Gas Production	$11.39
+KYN	Kayne Anderson MLP Investment Company	n/a	$16.06
+AJXA	Great Ajax Corp.	Real Estate Investment Trusts	$12.08
+ATVI	Activision Blizzard, Inc	Computer Software: Prepackaged Software	$35.79
+IBUY	Amplify Online Retail ETF	n/a	$24.94
+SCHL	Scholastic Corporation	Books	$17.58
+PNC^P	PNC Financial Services Group, Inc. (The)	n/a	$49.99
+ADES	Advanced Emissions Solutions, Inc.	Major Chemicals	$40.44
+MYJ	Blackrock MuniYield New Jersey Fund, Inc.	n/a	$16.02
+PUK^A	Prudential Public Limited Company	n/a	$10.27
+FSM	Fortuna Silver Mines Inc.	Precious Metals	$19.62
+ICAD	icad inc.	Medical/Dental Instruments	$39.15
+OCFC	OceanFirst Financial Corp.	Savings Institutions	$12.59
+ICHR	Ichor Holdings	Semiconductors	$15.97
+HYXE	iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF	n/a	$40.26
+PPHM	Peregrine Pharmaceuticals Inc.	Major Pharmaceuticals	$34.57
+DFS^B	Discover Financial Services	n/a	$32.63
+SSFN	Stewardship Financial Corp	Major Banks	$23.18
+CGO	Calamos Global Total Return Fund	n/a	$35.09
+HFWA	Heritage Financial Corporation	Banks	$47.39
+CHE	Chemed Corp.	Medical/Nursing Services	$39.83
+SIRI	Sirius XM Holdings Inc.	Broadcasting	$17.07
+SNAP	Snap Inc.	Computer Software: Programming, Data Processing	$35.66
+MRC	MRC Global Inc.	Industrial Machinery/Components	$33.63
+SIMO	Silicon Motion Technology Corporation	Semiconductors	$42.96
+CORI	Corium International, Inc.	Major Pharmaceuticals	$37.67
+VJET	voxeljet AG	Industrial Machinery/Components	$31.73
+BCH	Banco De Chile	Commercial Banks	$12.38
+NUW	Nuveen AMT-Free Municipal Value Fund	n/a	$18.30
+XEC	Cimarex Energy Co	Oil & Gas Production	$39.07
+NSS	NuStar Logistics, L.P.	Natural Gas Distribution	$11.48
+LECO	Lincoln Electric Holdings, Inc.	Industrial Machinery/Components	$39.27
+NCS	NCI Building Systems, Inc.	Metal Fabrications	$30.76
+ORIG	Ocean Rig UDW Inc.	Oil & Gas Production	$10.32
+SBOW	SilverBow Resorces, Inc.	Oil & Gas Production	$20.51
+BKU	BankUnited, Inc.	Savings Institutions	$17.18
+VTRB	Ventas Realty, Limited Partnership // Ventas Capital Corporati	Real Estate Investment Trusts	$36.76
+KTOS	Kratos Defense & Security Solutions, Inc.	Military/Government/Technical	$19.18
+BIOC	Biocept, Inc.	Medical Specialities	$35.05
+BMI	Badger Meter, Inc.	Industrial Machinery/Components	$11.91
+ELJ	Entergy Louisiana, Inc.	Electric Utilities: Central	$10.57
+GBLIZ	Global Indemnity Limited	Property-Casualty Insurers	$30.35
+SGRY	Surgery Partners, Inc.	Hospital/Nursing Management	$47.94
+AXAR	Axar Acquisition Corp.	Business Services	$35.99
+KAR	KAR Auction Services, Inc	Automotive Aftermarket	$37.73
+AMBA	Ambarella, Inc.	Semiconductors	$17.61
+DSKE	Daseke, Inc.	Transportation Services	$19.53
+KEG	Key Energy Services, Inc.	Oilfield Services/Equipment	$14.82
+VREX	Varex Imaging Corporation	Industrial Machinery/Components	$39.85
+AGO^B	Assured Guaranty Ltd.	n/a	$33.54
+BXS	BancorpSouth, Inc.	Major Banks	$32.16
+QTWO	Q2 Holdings, Inc.	Computer Software: Prepackaged Software	$10.47
+FDEF	First Defiance Financial Corp.	Savings Institutions	$14.66
+TRUP	Trupanion, Inc.	Medical Specialities	$49.79
+BGCA	BGC Partners, Inc.	Investment Bankers/Brokers/Service	$32.83
+CUZ	Cousins Properties Incorporated	Real Estate Investment Trusts	$49.32
+AFSD	Aflac Incorporated	Accident &Health Insurance	$20.71
+QRVO	Qorvo, Inc.	Semiconductors	$17.68
+FND	Floor & Decor Holdings, Inc.	RETAIL: Building Materials	$37.89
+BT	BT Group plc	Telecommunications Equipment	$41.10
+AAXJ	iShares MSCI All Country Asia ex Japan Index Fund	n/a	$22.32
+EDBI	Legg Mason Emerging Markets Diversified Core ETF	n/a	$27.92
+SMCI	Super Micro Computer, Inc.	Computer Manufacturing	$27.23
+KEYW	The KEYW Holding Corporation	EDP Services	$29.50
+MIND	Mitcham Industries, Inc.	Diversified Commercial Services	$32.86
+BKHU	Black Hills Corporation	Electric Utilities: Central	$40.19
+ORN	Orion Group Holdings, Inc.	Military/Government/Technical	$16.01
+GNBC	Green Bancorp, Inc.	Major Banks	$44.79
+EDF	Stone Harbor Emerging Markets Income Fund	n/a	$47.18
+PEBO	Peoples Bancorp Inc.	Major Banks	$20.65
+TUTI	Tuttle Tactical Management Multi-Strategy Income ETF	n/a	$18.17
+FMSA	Fairmount Santrol Holdings Inc.	Mining & Quarrying of Nonmetallic Minerals (No Fuels)	$23.40
+NJR	NewJersey Resources Corporation	Oil/Gas Transmission	$26.33
+HBI	Hanesbrands Inc.	Clothing/Shoe/Accessory Stores	$17.18
+AFGE	American Financial Group, Inc.	Property-Casualty Insurers	$36.18
+KTCC	Key Tronic Corporation	Computer peripheral equipment	$17.91
+KINS	Kingstone Companies, Inc	Property-Casualty Insurers	$21.70
+LEO	Dreyfus Strategic Municipals, Inc.	n/a	$44.46
+ALE	Allete, Inc.	Power Generation	$30.87
+HTH	Hilltop Holdings Inc.	Major Banks	$14.58
+ODFL	Old Dominion Freight Line, Inc.	Trucking Freight/Courier Services	$24.78
+LRGE	ClearBridge Large Cap Growth ESG ETF	n/a	$33.79
+MTR	Mesa Royalty Trust	Oil & Gas Production	$32.40
+DFP	Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.	n/a	$28.80
+CTLT	Catalent, Inc.	Major Pharmaceuticals	$11.17
+COST	Costco Wholesale Corporation	Department/Specialty Retail Stores	$22.84
+VSAR	Versartis, Inc.	Major Pharmaceuticals	$30.06
+FPT	Federated Premier Intermediate Municipal Income Fund	n/a	$16.02
+ALDX	Aldeyra Therapeutics, Inc.	Major Pharmaceuticals	$25.09
+CHDN	Churchill Downs, Incorporated	Services-Misc. Amusement & Recreation	$21.49
+DST	DST Systems, Inc.	EDP Services	$37.22
+CJ	C	Oilfield Services/Equipment	$38.43
+SMHI	SEACOR Marine Holdings Inc.	Marine Transportation	$42.52
+EYESW	Second Sight Medical Products, Inc.	Biotechnology: Electromedical & Electrotherapeutic Apparatus	$43.88
+AQXP	Aquinox Pharmaceuticals, Inc.	Major Pharmaceuticals	$25.35
+ABEV	Ambev S.A.	Beverages (Production/Distribution)	$28.28
+ZTS	Zoetis Inc.	Major Pharmaceuticals	$23.52
+PVBC	Provident Bancorp, Inc.	Savings Institutions	$10.66
+OSTK	Overstock.com, Inc.	Catalog/Specialty Distribution	$28.07
+WHLM	Wilhelmina International, Inc.	Professional Services	$10.76
+CVE	Cenovus Energy Inc	Oil & Gas Production	$48.30
+MACK	Merrimack Pharmaceuticals, Inc.	Major Pharmaceuticals	$44.99
+MEI	Methode Electronics, Inc.	Electrical Products	$31.35
+ELOS	Syneron Medical Ltd.	Biotechnology: Electromedical & Electrotherapeutic Apparatus	$22.90
+ABCB	Ameris Bancorp	Major Banks	$42.20
+CSBR	Champions Oncology, Inc.	Biotechnology: Biological Products (No Diagnostic Substances)	$17.93
+STNG	Scorpio Tankers Inc.	Marine Transportation	$41.87
+MGNX	MacroGenics, Inc.	Major Pharmaceuticals	$38.03
+NSA	National Storage Affiliates Trust	Real Estate Investment Trusts	$44.47
+NWY	New York & Company, Inc.	Clothing/Shoe/Accessory Stores	$48.95
+ICLN	iShares S&P Global Clean Energy Index Fund	n/a	$13.94
+AMH	American Homes 4 Rent	Real Estate Investment Trusts	$26.30
+HFBC	HopFed Bancorp, Inc.	Major Banks	$35.56
+TXRH	Texas Roadhouse, Inc.	Restaurants	$22.55
+MDT	Medtronic plc	Biotechnology: Electromedical & Electrotherapeutic Apparatus	$48.40
+KRC	Kilroy Realty Corporation	Real Estate Investment Trusts	$30.75
+VIRC	Virco Manufacturing Corporation	Industrial Specialties	$47.76
+WPT	World Point Terminals, LP	Oil Refining/Marketing	$27.05
+MUR	Murphy Oil Corporation	Oil & Gas Production	$21.51
+MARA	Marathon Patent Group, Inc.	Multi-Sector Companies	$19.98
+CLSN	Celsion Corporation	Major Pharmaceuticals	$41.69
+AMZN	Amazon.com, Inc.	Catalog/Specialty Distribution	$13.02
+CBI	Chicago Bridge & Iron Company N.V.	Engineering & Construction	$37.72
+RDWR	Radware Ltd.	Business Services	$14.60
+PEIX	Pacific Ethanol, Inc.	Major Chemicals	$41.75
+XELB	Xcel Brands, Inc	Multi-Sector Companies	$30.50
+SLCT	Select Bancorp, Inc.	Major Banks	$31.48
+NYMX	Nymox Pharmaceutical Corporation	Biotechnology: In Vitro & In Vivo Diagnostic Substances	$45.22
+THQ	Tekla Healthcare Opportunies Fund	n/a	$23.56
+TTWO	Take-Two Interactive Software, Inc.	Computer Software: Prepackaged Software	$28.63
+TARO	Taro Pharmaceutical Industries Ltd.	Major Pharmaceuticals	$35.48
+JMPC	JMP Group LLC	Investment Bankers/Brokers/Service	$32.17
+ATU	Actuant Corporation	Industrial Machinery/Components	$33.12
+KEM	Kemet Corporation	Electrical Products	$42.60
+PCTY	Paylocity Holding Corporation	Computer Software: Prepackaged Software	$44.16
+KIM	Kimco Realty Corporation	Real Estate Investment Trusts	$21.40
+MULE	MuleSoft, Inc.	Computer Software: Prepackaged Software	$27.52
+WHF	WhiteHorse Finance, Inc.	n/a	$21.45
+FRT	Federal Realty Investment Trust	Real Estate Investment Trusts	$25.53
+DTRM	Determine, Inc. 	Computer Software: Prepackaged Software	$47.76
+GIGA	Giga-tronics Incorporated	Electrical Products	$20.74
+ETE	Energy Transfer Equity, L.P.	Natural Gas Distribution	$36.29
+AEE	Ameren Corporation	Power Generation	$46.34
+PJC	Piper Jaffray Companies	Investment Bankers/Brokers/Service	$16.62
+ESPR	Esperion Therapeutics, Inc.	Major Pharmaceuticals	$43.74
+IDSY	I.D. Systems, Inc.	Telecommunications Equipment	$25.77
+LOW	Lowe's Companies, Inc.	RETAIL: Building Materials	$21.79
+OPXAW	Opexa Therapeutics, Inc.	Major Pharmaceuticals	$22.64
+AOS	Smith (A.O.) Corporation	Consumer Electronics/Appliances	$30.74
+FTAI	Fortress Transportation and Infrastructure Investors LLC	n/a	$30.07
+ISM	Navient Corporation	Finance: Consumer Services	$14.41
+CW	Curtiss-Wright Corporation	Industrial Machinery/Components	$47.11
+CALI	China Auto Logistics Inc.	Motor Vehicles	$47.73
+ADRD	BLDRS Developed Markets 100 ADR Index Fund	n/a	$32.68
+LNDC	Landec Corporation	Major Chemicals	$37.88
+E	ENI S.p.A.	Oil & Gas Production	$48.36
+ATRS	Antares Pharma, Inc.	Medical/Dental Instruments	$36.49
+TPVZ	TriplePoint Venture Growth BDC Corp.	n/a	$22.67
+SFS	Smart	Food Chains	$47.67
+FBMS	The First Bancshares, Inc.	Major Banks	$49.65
+APF	Morgan Stanley Asia-Pacific Fund, Inc.	n/a	$46.41
+NAV^D	Navistar International Corporation	Auto Manufacturing	$31.26
+HMLP	Hoegh LNG Partners LP	Marine Transportation	$25.91
+ISTR	Investar Holding Corporation	Major Banks	$41.15
+CDNA	CareDx, Inc.	Medical Specialities	$22.39
+CHDN	Churchill Downs, Incorporated	Services-Misc. Amusement & Recreation	$21.74
+LTC	LTC Properties, Inc.	Real Estate Investment Trusts	$16.96
+BP	BP p.l.c.	Integrated oil Companies	$27.28
+LRAD	LRAD Corporation	Consumer Electronics/Appliances	$18.64
+RDUS	Radius Health, Inc.	Major Pharmaceuticals	$10.55
+SAFT	Safety Insurance Group, Inc.	Property-Casualty Insurers	$40.10
+CECO	Career Education Corporation	Other Consumer Services	$11.11
+CALI	China Auto Logistics Inc.	Motor Vehicles	$27.57
+OHI	Omega Healthcare Investors, Inc.	Real Estate Investment Trusts	$49.02
+BGFV	Big 5 Sporting Goods Corporation	Other Specialty Stores	$43.08
+SCAC	Saban Capital Acquisition Corp.	Business Services	$22.08
+LSXMB	Liberty Media Corporation	Broadcasting	$19.92
+SEAC	SeaChange International, Inc.	Radio And Television Broadcasting And Communications Equipment	$46.17
+DYNT	Dynatronics Corporation	Biotechnology: Electromedical & Electrotherapeutic Apparatus	$41.71
+BAC^I	Bank of America Corporation	n/a	$32.01
+HRZN	Horizon Technology Finance Corporation	n/a	$19.15
+PRE^I	PartnerRe Ltd.	n/a	$35.17
+UCBI	United Community Banks, Inc.	Major Banks	$14.66
+TEX	Terex Corporation	Construction/Ag Equipment/Trucks	$36.40
+ULTI	The Ultimate Software Group, Inc.	Computer Software: Prepackaged Software	$36.96
+LION	Fidelity Southern Corporation	Major Banks	$46.57
+DRI	Darden Restaurants, Inc.	Restaurants	$34.70
+XTLY	Xactly Corporation	Computer Software: Prepackaged Software	$43.51
+HDP	Hortonworks, Inc.	Computer Software: Prepackaged Software	$23.59
+DRNA	Dicerna Pharmaceuticals, Inc.	Major Pharmaceuticals	$40.94
+ABBV	AbbVie Inc.	Major Pharmaceuticals	$16.10
+CB	D/B/A Chubb Limited New	Property-Casualty Insurers	$11.17
+BXS	BancorpSouth, Inc.	Major Banks	$45.91
+LANC	Lancaster Colony Corporation	Packaged Foods	$27.76
+GJT	Synthetic Fixed-Income Securities, Inc.	Finance: Consumer Services	$40.15
+ISRG	Intuitive Surgical, Inc.	Industrial Specialties	$37.47
+MOG.A	Moog Inc.	n/a	$21.45
+MEI	Methode Electronics, Inc.	Electrical Products	$30.06
+CHUBA	CommerceHub, Inc.	Computer Software: Prepackaged Software	$41.60
+CDNS	Cadence Design Systems, Inc.	Computer Software: Prepackaged Software	$25.71
+ALQA	Alliqua BioMedical, Inc.	Medical/Dental Instruments	$49.35
+DTE	DTE Energy Company	Electric Utilities: Central	$36.99
+IGA	Voya Global Advantage and Premium Opportunity Fund	n/a	$21.16
+IX	Orix Corp Ads	Diversified Financial Services	$36.24
+SRC	Spirit Realty Capital, Inc.	Building operators	$42.44
+PBHC	Pathfinder Bancorp, Inc.	Major Banks	$46.67
+CID	VictoryShares International High Div Volatility Wtd ETF	n/a	$28.41
+INN^C	Summit Hotel Properties, Inc.	n/a	$19.31
+DMPI	DelMar Pharmaceuticals, Inc.	Major Pharmaceuticals	$29.88
+EVF	Eaton Vance Senior Income Trust	n/a	$47.13
+APA	Apache Corporation	Oil & Gas Production	$18.42
+HFC	HollyFrontier Corporation	Integrated oil Companies	$20.72
+GGT	Gabelli Multi-Media Trust Inc. (The)	n/a	$15.70
+SINO	Sino-Global Shipping America, Ltd.	Oil Refining/Marketing	$47.03
+ENIC	Enel Chile S.A.	Electric Utilities: Central	$32.37
+PCQ	PIMCO California Municipal Income Fund	n/a	$39.69
+IMNP          	Immune Pharmaceuticals Inc.	Major Pharmaceuticals	$24.37
+ATI	Allegheny Technologies Incorporated	Steel/Iron Ore	$32.57
+ISSC	Innovative Solutions and Support, Inc.	EDP Services	$25.64
+PEBK	Peoples Bancorp of North Carolina, Inc.	Major Banks	$39.41
+RAS^B	RAIT Financial Trust	n/a	$12.74
+ENLK	EnLink Midstream Partners, LP	Natural Gas Distribution	$33.02
+PEI^B	Pennsylvania Real Estate Investment Trust	n/a	$33.98
+TRST	TrustCo Bank Corp NY	Major Banks	$33.58
+JONE	Jones Energy, Inc.	Oil & Gas Production	$41.60
+HOMB	Home BancShares, Inc.	Major Banks	$33.96
+PEIX	Pacific Ethanol, Inc.	Major Chemicals	$39.41
+FTW	First Trust Taiwan AlphaDEX Fund	n/a	$10.14
+VUZI	Vuzix Corporation	Radio And Television Broadcasting And Communications Equipment	$36.30
+ROSEW	Rosehill Resources Inc.	Oil & Gas Production	$39.90
+INVA	Innoviva, Inc.	Major Pharmaceuticals	$49.67
+ABCO	The Advisory Board Company	Other Consumer Services	$10.37
+MCEP	Mid-Con Energy Partners, LP	Oil & Gas Production	$19.51
+SNHNL	Senior Housing Properties Trust	Real Estate Investment Trusts	$38.49
+EFR	Eaton Vance Senior Floating-Rate Fund	n/a	$18.55
+RGLS	Regulus Therapeutics Inc.	Major Pharmaceuticals	$17.98
+PTH	PowerShares DWA Healthcare Momentum Portfolio	n/a	$15.90
+PRXL	PAREXEL International Corporation	Biotechnology: Commercial Physical & Biological Resarch	$27.41
+SBCP	Sunshine Bancorp, Inc.	Savings Institutions	$20.21
+AGR	Avangrid, Inc.	Electric Utilities: Central	$31.79
+EXP	Eagle Materials Inc	Building Materials	$26.71
+AHC	A.H. Belo Corporation	Newspapers/Magazines	$26.78
+QTRH	Quarterhill Inc.	Multi-Sector Companies	$15.46
+FNBG	FNB Bancorp	Major Banks	$25.30
+MED	MEDIFAST INC	Packaged Foods	$47.15
+BMO	Bank Of Montreal	Commercial Banks	$47.92
+INXN	InterXion Holding N.V.	Computer Software: Programming, Data Processing	$49.43
+GGG	Graco Inc.	Fluid Controls	$34.84
+ADRA	BLDRS Asia 50 ADR Index Fund	n/a	$18.21
+SRET	Global X SuperDividend REIT ETF	n/a	$43.76
+BMA	Macro Bank Inc.	Commercial Banks	$41.84
+FEYE	FireEye, Inc.	Computer peripheral equipment	$12.29
+MPV	Barings Participation Investors	n/a	$27.83
+CUBA	The Herzfeld Caribbean Basin Fund, Inc.	n/a	$24.55
+DMB	Dreyfus Municipal Bond Infrastructure Fund, Inc.	n/a	$24.60
+SPAN	Span-America Medical Systems, Inc.	Industrial Specialties	$48.68
+ORMP	Oramed Pharmaceuticals Inc.	Major Pharmaceuticals	$12.52
+MPAA	Motorcar Parts of America, Inc.	Auto Parts:O.E.M.	$29.45
+SBNYW	Signature Bank	Major Banks	$23.38
+FMS	Fresenius Medical Care Corporation	Hospital/Nursing Management	$22.50
+HLG	Hailiang Education Group Inc.	Other Consumer Services	$21.59
+DSKEW	Daseke, Inc.	Transportation Services	$40.33
+IVR^A	Invesco Mortgage Capital Inc.	n/a	$29.50
+PLAY	Dave & Buster's Entertainment, Inc.	Restaurants	$29.72
+HAE	Haemonetics Corporation	Medical/Dental Instruments	$46.11
+USPH	U.S. Physical Therapy, Inc.	Medical/Nursing Services	$19.42
+CORR	CorEnergy Infrastructure Trust, Inc.	Real Estate Investment Trusts	$11.51
+ESV	ENSCO plc	Oil & Gas Production	$20.89
+AGII	Argo Group International Holdings, Ltd.	Specialty Insurers	$10.76
+HIHO	Highway Holdings Limited	Metal Fabrications	$15.66
+BIG	Big Lots, Inc.	Department/Specialty Retail Stores	$10.87
+CVE	Cenovus Energy Inc	Oil & Gas Production	$46.06
+CHGG	Chegg, Inc.	Other Consumer Services	$42.29
+HBANN	Huntington Bancshares Incorporated	Major Banks	$15.94
+RDY	Dr. Reddy's Laboratories Ltd	Major Pharmaceuticals	$20.81
+ROG	Rogers Corporation	Major Chemicals	$42.51
+MVC	MVC Capital, Inc.	n/a	$21.59
+HTGX	Hercules Capital, Inc.	n/a	$40.50
+NAT	Nordic American Tankers Limited	Marine Transportation	$25.43
+FYT	First Trust Small Cap Value AlphaDEX Fund	n/a	$24.43
+RGS	Regis Corporation	Other Consumer Services	$33.77
+UNAM	Unico American Corporation	Property-Casualty Insurers	$10.76
+WU	Western Union Company (The)	Business Services	$45.62
+GTYHW	GTY Technology Holdings, Inc.	Business Services	$27.04
+XPLR	Xplore Technologies Corp	Computer Manufacturing	$23.72
+AU	AngloGold Ashanti Limited	Precious Metals	$31.54
+JCI	Johnson Controls International plc	Other Consumer Services	$49.86
+CBAY	CymaBay Therapeutics Inc.	Major Pharmaceuticals	$33.23
+TPVG	TriplePoint Venture Growth BDC Corp.	n/a	$46.92
+SCX	L.S. Starrett Company (The)	Industrial Machinery/Components	$44.81
+KNOP	KNOT Offshore Partners LP	Marine Transportation	$33.95
+JAKK	JAKKS Pacific, Inc.	Recreational Products/Toys	$26.84
+CAE	CAE Inc	Industrial Machinery/Components	$27.78
+QIWI	QIWI plc	Business Services	$48.47
+JBHT	J.B. Hunt Transport Services, Inc.	Trucking Freight/Courier Services	$16.43
+GLT	Glatfelter	Paper	$48.92
+TRCH	Torchlight Energy Resources, Inc.	Oil & Gas Production	$14.87
+LPI	Laredo Petroleum, Inc.	Oil & Gas Production	$43.81
+NBHC	National Bank Holdings Corporation	Major Banks	$41.91
+MBWM	Mercantile Bank Corporation	Major Banks	$27.25
+NXP	Nuveen Select Tax Free Income Portfolio	n/a	$24.27
+RVLT	Revolution Lighting Technologies, Inc.	Building Products	$19.30
+WABC	Westamerica Bancorporation	Major Banks	$47.39
+IIN	IntriCon Corporation	Electrical Products	$29.29
+COHU	Cohu, Inc.	Electrical Products	$27.53
+ATRC	AtriCure, Inc.	Medical/Dental Instruments	$11.52
+AMRN	Amarin Corporation plc	Major Pharmaceuticals	$15.88
+TST	TheStreet, Inc.	Newspapers/Magazines	$34.96
+PAI	Pacific American Income Shares, Inc.	n/a	$22.00
+SNI	Scripps Networks Interactive, Inc	Television Services	$23.88
+HCKT	The Hackett Group, Inc.	Professional Services	$43.41
+CMC	Commercial Metals Company	Steel/Iron Ore	$33.38
+FARO	FARO Technologies, Inc.	Industrial Machinery/Components	$12.52
+ELEC	Electrum Special Acquisition Corporation	Business Services	$40.92
+AMRK	A-Mark Precious Metals, Inc.	Other Specialty Stores	$21.27
+ARR^A	ARMOUR Residential REIT, Inc.	n/a	$26.62
+PSCE	PowerShares S&P SmallCap Energy Portfolio	n/a	$40.49
+ADSW	Advanced Disposal Services, Inc.	Environmental Services	$42.16
+DAL	Delta Air Lines, Inc.	Air Freight/Delivery Services	$25.89
+BAC^E	Bank of America Corporation	n/a	$38.19
+FTXN	First Trust Nasdaq Oil & Gas ETF	n/a	$18.34
+HNNA	Hennessy Advisors, Inc.	Investment Managers	$27.48
+AXP	American Express Company	Finance: Consumer Services	$46.90
+KAI	Kadant Inc	Industrial Machinery/Components	$17.76
+TA	TravelCenters of America LLC	Automotive Aftermarket	$19.47
+TRNO	Terreno Realty Corporation	Real Estate	$14.62
+TRIB	Trinity Biotech plc	Biotechnology: In Vitro & In Vivo Diagnostic Substances	$46.68
+PCQ	PIMCO California Municipal Income Fund	n/a	$20.83
+COHR	Coherent, Inc.	Biotechnology: Laboratory Analytical Instruments	$11.99
+SONS	Sonus Networks, Inc.	EDP Services	$12.62
+GGP^A	GGP Inc.	Real Estate Investment Trusts	$30.56
+TWTR	Twitter, Inc.	Computer Software: Programming, Data Processing	$42.80
+VIAV	Viavi Solutions Inc.	Semiconductors	$44.31
+BC	Brunswick Corporation	Industrial Machinery/Components	$42.07
+EVAR	Lombard Medical, Inc.	Medical/Dental Instruments	$10.16
+AR	Antero Resources Corporation	Oil & Gas Production	$23.03
+SXE	Southcross Energy Partners, L.P.	Natural Gas Distribution	$19.61
+PTNR	Partner Communications Company Ltd.	Telecommunications Equipment	$45.43
+GMS	GMS Inc.	RETAIL: Building Materials	$32.00
+EPC	Energizer Holdings, Inc.	Package Goods/Cosmetics	$21.42
+RAI	Reynolds American Inc	Farming/Seeds/Milling	$14.40
+CW	Curtiss-Wright Corporation	Industrial Machinery/Components	$43.40
+IMMU	Immunomedics, Inc.	Biotechnology: In Vitro & In Vivo Diagnostic Substances	$48.84
+BMY	Bristol-Myers Squibb Company	Major Pharmaceuticals	$31.62
+TPB	Turning Point Brands, Inc.	Tobacco	$44.16
+PLNT	Planet Fitness, Inc.	Hotels/Resorts	$29.86
+CIDM	Cinedigm Corp	Consumer Electronics/Video Chains	$48.84
+MTW	Manitowoc Company, Inc. (The)	Construction/Ag Equipment/Trucks	$35.48
+OESX	Orion Energy Systems, Inc.	Building Products	$31.06
+MVC	MVC Capital, Inc.	n/a	$43.29
+BXP	Boston Properties, Inc.	Real Estate Investment Trusts	$44.80
+PII	Polaris Industries Inc.	Industrial Specialties	$45.20
+ESV	ENSCO plc	Oil & Gas Production	$36.67
+VALE	VALE S.A.	Precious Metals	$14.04
+INWK	InnerWorkings, Inc.	Containers/Packaging	$16.03
+HII	Huntington Ingalls Industries, Inc.	Marine Transportation	$45.86
+CNC	Centene Corporation	Medical Specialities	$21.26
+PSA^F	Public Storage	Real Estate Investment Trusts	$22.93
+DKT	Deutsch Bk Contingent Cap Tr V	Major Banks	$25.44
+UNP	Union Pacific Corporation	Railroads	$32.84
+PINC	Premier, Inc.	Other Consumer Services	$12.67
+TLND	Talend S.A.	Computer Software: Prepackaged Software	$18.47
+KW	Kennedy-Wilson Holdings Inc.	Real Estate	$40.10
+CRZO	Carrizo Oil & Gas, Inc.	Oil & Gas Production	$38.03
+SPKEP	Spark Energy, Inc.	Power Generation	$41.10
+SEED	Origin Agritech Limited	Farming/Seeds/Milling	$15.01
+PNF	PIMCO New York Municipal Income Fund	n/a	$47.72
+HE^U	Hawaiian Electric Industries, Inc.	n/a	$40.00
+OKSB	Southwest Bancorp, Inc.	Major Banks	$19.84
+EACQU	Easterly Acquisition Corp.	Building Products	$13.39
+SEAC	SeaChange International, Inc.	Radio And Television Broadcasting And Communications Equipment	$29.15
+BHK	Blackrock Core Bond Trust	n/a	$39.88
+NXTDW	NXT-ID Inc.	Diversified Commercial Services	$25.19
+FUEL	Rocket Fuel Inc.	Computer Software: Programming, Data Processing	$45.17
+KMB	Kimberly-Clark Corporation	Containers/Packaging	$24.96
+PEY	PowerShares High Yield Equity Dividend Achievers Portfolio	n/a	$47.47
+REXR	Rexford Industrial Realty, Inc.	Real Estate Investment Trusts	$48.58
+MSA	MSA Safety Incorporporated	Industrial Specialties	$35.01
+MTB^	M&T Bank Corporation	n/a	$10.88
+MAUI	AdvisorShares Market Adaptive Unconstrained Income ETF	n/a	$41.80
+IFMK	iFresh Inc.	Food Chains	$12.60
+OBCI	Ocean Bio-Chem, Inc.	Specialty Chemicals	$38.65
+FTRPR	Frontier Communications Corporation	Telecommunications Equipment	$16.83
+DECK	Deckers Outdoor Corporation	Shoe Manufacturing	$42.78
+PEBO	Peoples Bancorp Inc.	Major Banks	$49.55
+BNS	Bank of Nova Scotia (The)	Major Banks	$42.44
+PNW	Pinnacle West Capital Corporation	Electric Utilities: Central	$15.47
+QUOT	Quotient Technology Inc.	Advertising	$10.98
+COF	Capital One Financial Corporation	Major Banks	$10.32
+AFSI	AmTrust Financial Services, Inc.	Property-Casualty Insurers	$17.89
+MTCH	Match Group, Inc.	Computer Software: Programming, Data Processing	$11.00
+ATSG	Air Transport Services Group, Inc	Air Freight/Delivery Services	$18.87
+JSD	Nuveen Short Duration Credit Opportunities Fund	n/a	$38.62
+PESI	Perma-Fix Environmental Services, Inc.	Environmental Services	$17.39
+KITE	Kite Pharma, Inc.	Biotechnology: Biological Products (No Diagnostic Substances)	$29.64
+SITO	SITO Mobile, Ltd.	Business Services	$46.64
+STT^D	State Street Corporation	n/a	$32.80
+WFT	Weatherford International plc	Metal Fabrications	$31.53
+GROW	U.S. Global Investors, Inc.	Investment Managers	$26.56
+PCF	Putnam High Income Bond Fund	n/a	$43.46
+NVCN	Neovasc Inc.	Medical/Dental Instruments	$38.34
+VGLT	Vanguard Long-Term Government Bond ETF	n/a	$39.61
+AMCX	AMC Networks Inc.	Television Services	$26.44
+WTW	Weight Watchers International Inc	Other Consumer Services	$35.11
+PVAC	Penn Virginia Corporation	Oil & Gas Production	$23.29
+ADHD	Alcobra Ltd.	Major Pharmaceuticals	$12.84
+FCA	First Trust China AlphaDEX Fund	n/a	$24.24
+FTV	Fortive Corporation	Industrial Machinery/Components	$43.19
+ALT	Altimmune, Inc.	Major Pharmaceuticals	$12.05
+CCL	Carnival Corporation	Marine Transportation	$23.70
+APPS	Digital Turbine, Inc.	Multi-Sector Companies	$30.01
+KEX	Kirby Corporation	Marine Transportation	$13.26
+HIE	Miller/Howard High Income Equity Fund	n/a	$45.98
+EARN	Ellington Residential Mortgage REIT	Real Estate Investment Trusts	$46.75
+RY^S	Royal Bank Of Canada	n/a	$21.85
+AQB	AquaBounty Technologies, Inc.	n/a	$34.33
+GUT	Gabelli Utility Trust (The)	n/a	$42.13
+NTGR	NETGEAR, Inc.	Telecommunications Equipment	$49.54
+AVNW	Aviat Networks, Inc.	Radio And Television Broadcasting And Communications Equipment	$15.35
+EMR	Emerson Electric Company	Consumer Electronics/Appliances	$26.88
+SMED	Sharps Compliance Corp	Environmental Services	$45.24
+ERIC	Ericsson	Radio And Television Broadcasting And Communications Equipment	$36.20
+SYRS	Syros Pharmaceuticals, Inc.	Major Pharmaceuticals	$40.31
+TAST	Carrols Restaurant Group, Inc.	Restaurants	$29.24
+IPGP	IPG Photonics Corporation	Semiconductors	$45.54
+CVE	Cenovus Energy Inc	Oil & Gas Production	$39.84
+WF	Woori Bank	Commercial Banks	$17.59
+WAB	Westinghouse Air Brake Technologies Corporation	Railroads	$26.08
+IHIT	Invesco High Income 2023 Target Term Fund	n/a	$44.40
+AU	AngloGold Ashanti Limited	Precious Metals	$37.24
+ANDE	The Andersons, Inc.	Farming/Seeds/Milling	$17.94
+TSM	Taiwan Semiconductor Manufacturing Company Ltd.	Semiconductors	$20.14
+FTSM	First Trust Enhanced Short Maturity ETF	n/a	$22.90
+EFR	Eaton Vance Senior Floating-Rate Fund	n/a	$27.07
+SXCP	SunCoke Energy Partners, L.P.	Steel/Iron Ore	$17.79
+JELD	JELD-WEN Holding, Inc.	Forest Products	$27.16
+MNKD	MannKind Corporation	Major Pharmaceuticals	$46.43
+BIDU	Baidu, Inc.	Computer Software: Programming, Data Processing	$26.26
+GNC	GNC Holdings, Inc.	Food Chains	$43.98
+PTCT	PTC Therapeutics, Inc.	Major Pharmaceuticals	$11.82
+PJT	PJT Partners Inc.	Investment Managers	$19.40
+CPTAG	Capitala Finance Corp.	n/a	$10.27
+SSYS	Stratasys, Ltd.	Computer peripheral equipment	$46.91
+G	Genpact Limited	Professional Services	$31.90
+AGNC	AGNC Investment Corp.	Real Estate Investment Trusts	$35.12
+ZTO	ZTO Express (Cayman) Inc.	Trucking Freight/Courier Services	$21.10
+ENZL	iShares MSCI New Zealand Capped ETF	n/a	$22.34
+HEI.A	Heico Corporation	n/a	$31.17
+BGR	BlackRock Energy and Resources Trust	n/a	$12.77
+IART	Integra LifeSciences Holdings Corporation	Biotechnology: Laboratory Analytical Instruments	$28.32
+QTRH	Quarterhill Inc.	Multi-Sector Companies	$41.46
+AYX	Alteryx, Inc.	Computer Software: Prepackaged Software	$36.95
+RTEC	Rudolph Technologies, Inc.	Industrial Machinery/Components	$40.06
+LKQ	LKQ Corporation	Motor Vehicles	$16.35
+FLIC	The First of Long Island Corporation	Major Banks	$47.20
+EGO	Eldorado Gold Corporation	Precious Metals	$31.77
+HL	Hecla Mining Company	Mining & Quarrying of Nonmetallic Minerals (No Fuels)	$21.26
+SAEX	SAExploration Holdings, Inc.	Oil & Gas Production	$19.03
+CVGI	Commercial Vehicle Group, Inc.	Auto Parts:O.E.M.	$48.15
+PFGC	Performance Food Group Company	Food Distributors	$22.62
+TPIC	TPI Composites, Inc.	Industrial Machinery/Components	$44.19
+SUN	Sunoco LP	Oil Refining/Marketing	$35.73
+CUBI^E	Customers Bancorp, Inc	n/a	$22.20
+XELB	Xcel Brands, Inc	Multi-Sector Companies	$32.46
+HFC	HollyFrontier Corporation	Integrated oil Companies	$39.91
+HBMD	Howard Bancorp, Inc.	Major Banks	$40.02
+HMNF	HMN Financial, Inc.	Savings Institutions	$44.59
+TSO	Tesoro Corporation	Integrated oil Companies	$44.50
+XIV	VelocityShares Daily Inverse VIX Short-Term ETN	Investment Bankers/Brokers/Service	$37.55
+PERI	Perion Network Ltd	EDP Services	$17.97
+DGICB	Donegal Group, Inc.	Property-Casualty Insurers	$43.22
+SCHW^B	The Charles Schwab Corporation	n/a	$18.90
+MHF	Western Asset Municipal High Income Fund, Inc.	n/a	$15.45
+KONE	Kingtone Wirelessinfo Solution Holding Ltd	EDP Services	$23.42
+ALLY	Ally Financial Inc.	Finance: Consumer Services	$14.72
+DCO	Ducommun Incorporated	Military/Government/Technical	$47.59
+PRAN	Prana Biotechnology Ltd	Major Pharmaceuticals	$38.55
+CMD	Cantel Medical Corp.	Medical/Dental Instruments	$13.55
+MGIC	Magic Software Enterprises Ltd.	Computer Software: Prepackaged Software	$43.88
+RPRX	Repros Therapeutics Inc.	Biotechnology: Biological Products (No Diagnostic Substances)	$41.26
+NDRO	Enduro Royalty Trust	Oil & Gas Production	$41.96
+GRIF	Griffin Industrial Realty, Inc.	Real Estate	$19.06
+KF	Korea Fund, Inc. (The)	n/a	$13.97
+BKU	BankUnited, Inc.	Savings Institutions	$22.69
+TAP	Molson Coors Brewing  Company	Beverages (Production/Distribution)	$48.43
+VPG	Vishay Precision Group, Inc.	Electrical Products	$12.41
+CXW	CoreCivic, Inc.	Real Estate Investment Trusts	$11.36
+ASC	Ardmore Shipping Corporation	Marine Transportation	$35.68
+SANM	Sanmina Corporation	Electrical Products	$46.83
+GD	General Dynamics Corporation	Marine Transportation	$37.92
+TAC	TransAlta Corporation	Electric Utilities: Central	$16.66
+EXD	Eaton Vance Tax-Advantaged Bond	n/a	$44.88
+PTF	PowerShares DWA Technology Momenum Portfolio	n/a	$33.88
+APTS	Preferred Apartment Communities, Inc.	Real Estate Investment Trusts	$48.65
+MBT	Mobile TeleSystems OJSC	Telecommunications Equipment	$28.31
+QPACU	Quinpario Acquisition Corp. 2	Business Services	$17.88
+ANTM	Anthem, Inc.	Medical Specialities	$35.14
+NWLI	National Western Life Group, Inc.	Life Insurance	$12.19
+PSO	Pearson, Plc	Books	$41.11
+PFBX	Peoples Financial Corporation	Major Banks	$43.99
+AVAL	Grupo Aval Acciones y Valores S.A.	Commercial Banks	$16.23
+SPLP	Steel Partners Holdings LP	Industrial Specialties	$45.13
+WFC	Wells Fargo & Company	Major Banks	$21.20
+RLGY	Realogy Holdings Corp.	Real Estate	$35.73
+EL	Estee Lauder Companies, Inc. (The)	Package Goods/Cosmetics	$36.29
+PJC	Piper Jaffray Companies	Investment Bankers/Brokers/Service	$19.87
+DL	China Distance Education Holdings Limited	Other Consumer Services	$18.71
+MHLD	Maiden Holdings, Ltd.	Property-Casualty Insurers	$19.86
+OUT	OUTFRONT Media Inc.	Real Estate Investment Trusts	$39.30
+LDR	Landauer, Inc.	Industrial Machinery/Components	$37.10
+AGNC	AGNC Investment Corp.	Real Estate Investment Trusts	$44.01
+BSFT	BroadSoft, Inc.	Computer Software: Prepackaged Software	$41.34
+CYS^A	CYS Investments, Inc.	n/a	$44.00
+FRBA	First Bank	n/a	$34.13
+WAFDW	Washington Federal, Inc.	Major Banks	$37.66
+AEP	American Electric Power Company, Inc.	Electric Utilities: Central	$47.47
+AAXN	Axon Enterprise, Inc.	Ordnance And Accessories	$37.94
+PEP	Pepsico, Inc.	Beverages (Production/Distribution)	$49.30
+RDC	Rowan Companies plc	Oil & Gas Production	$32.74
+UVSP	Univest Corporation of Pennsylvania	Major Banks	$32.98
+CNP	CenterPoint Energy, Inc.	Electric Utilities: Central	$41.11
+TOWR	Tower International, Inc.	Auto Parts:O.E.M.	$23.78
+MRDN	Meridian Waste Solutions, Inc	Miscellaneous	$44.45
+DRQ	Dril-Quip, Inc.	Metal Fabrications	$16.11
+HT^E	Hersha Hospitality Trust	n/a	$18.89
+CDOR	Condor Hospitality Trust, Inc.	Real Estate Investment Trusts	$21.94
+SENEA	Seneca Foods Corp.	Packaged Foods	$24.13
+IVZ	Invesco Plc	Investment Managers	$45.97
+BUFF	Blue Buffalo Pet Products, Inc.	Packaged Foods	$49.28
+LAWS	Lawson Products, Inc.	Industrial Specialties	$41.95
+DDR	DDR Corp.	Real Estate Investment Trusts	$28.25
+ATOM	Atomera Incorporated	Semiconductors	$16.56
+AFA	American Financial Group, Inc.	Property-Casualty Insurers	$10.40
+LMNR	Limoneira Co	Farming/Seeds/Milling	$44.86
+RF^A	Regions Financial Corporation	n/a	$47.87
+INDB	Independent Bank Corp.	Major Banks	$31.26
+ADNT	Adient plc	Auto Parts:O.E.M.	$27.71
+GSBC	Great Southern Bancorp, Inc.	Major Banks	$38.22
+VRIG	PowerShares Variable Rate Investment Grade Portfolio	n/a	$32.75
+RVT	Royce Value Trust, Inc.	n/a	$29.89
+AGO	Assured Guaranty Ltd.	Property-Casualty Insurers	$33.42
+WPZ	Williams Partners LP	Natural Gas Distribution	$49.52
+JBLU	JetBlue Airways Corporation	Air Freight/Delivery Services	$26.62
+ELS	Equity Lifestyle Properties, Inc.	Real Estate Investment Trusts	$33.17
+WBS	Webster Financial Corporation	Major Banks	$45.10
+PVTBP	PrivateBancorp, Inc.	Major Banks	$23.79
+DL	China Distance Education Holdings Limited	Other Consumer Services	$24.33
+RILYZ	B. Riley Financial, Inc.	Business Services	$10.56
+AFW.CL	American Financial Group, Inc.	n/a	$31.76
+ANH^C	Anworth Mortgage Asset  Corporation	n/a	$49.68
+EDBI	Legg Mason Emerging Markets Diversified Core ETF	n/a	$13.47
+TRVN	Trevena, Inc.	Major Pharmaceuticals	$37.33
+NHF	Highland Funds I	n/a	$25.43
+LEN.B	Lennar Corporation	Homebuilding	$40.48
+BLKB	Blackbaud, Inc.	Computer Software: Prepackaged Software	$43.45
+EIG	Employers Holdings Inc	Property-Casualty Insurers	$20.26
+VWR	VWR Corporation	Diversified Electronic Products	$28.79
+MMSI	Merit Medical Systems, Inc.	Medical/Dental Instruments	$42.26
+CTY	Qwest Corporation	Telecommunications Equipment	$11.72
+ESGU	iShares MSCI USA ESG Optimized ETF	n/a	$34.95
+SNY	Sanofi	Major Pharmaceuticals	$47.65
+SVVC	Firsthand Technology Value Fund, Inc.	n/a	$46.52
+PSCE	PowerShares S&P SmallCap Energy Portfolio	n/a	$10.98
+SNP	China Petroleum & Chemical Corporation	Integrated oil Companies	$21.92
+TRS	TriMas Corporation	Industrial Specialties	$28.91
+EQCO	Equity Commonwealth	Real Estate Investment Trusts	$40.37
+ETE	Energy Transfer Equity, L.P.	Natural Gas Distribution	$41.79
+SANW	S&W Seed Company	Farming/Seeds/Milling	$24.69
+ALR^B	Alere Inc.	n/a	$19.86
+ATEN	A10 Networks, Inc.	Computer Communications Equipment	$47.59
+MUA	Blackrock MuniAssets Fund, Inc.	n/a	$14.32
+SINA	Sina Corporation	Computer Software: Prepackaged Software	$20.26
+CPS	Cooper-Standard Holdings Inc.	Auto Parts:O.E.M.	$15.85
+GS^K	Goldman Sachs Group, Inc. (The)	n/a	$43.05
+NBB	Nuveen Build America Bond Fund	n/a	$39.94
+PSCE	PowerShares S&P SmallCap Energy Portfolio	n/a	$26.04
+CPA	Copa Holdings, S.A.	Air Freight/Delivery Services	$31.94
+GLUU	Glu Mobile Inc.	EDP Services	$17.18
+CHEKW	Check-Cap Ltd.	Medical Electronics	$31.14
+MTP	Midatech Pharma PLC	Major Pharmaceuticals	$31.12
+CCN	CardConnect Corp.	Business Services	$17.13
+SCX	L.S. Starrett Company (The)	Industrial Machinery/Components	$34.25
+JBT	John Bean Technologies Corporation	Industrial Machinery/Components	$44.35
+PAGG	PowerShares Global Agriculture Portfolio	n/a	$33.86
+MOG.A	Moog Inc.	n/a	$35.42
+TEAR	TearLab Corporation	Medical/Dental Instruments	$44.83
+AYX	Alteryx, Inc.	Computer Software: Prepackaged Software	$16.20
+UIS	Unisys Corporation	EDP Services	$18.96
+GLDD	Great Lakes Dredge & Dock Corporation	Military/Government/Technical	$25.54
+MSA	MSA Safety Incorporporated	Industrial Specialties	$30.79
+CENTA	Central Garden & Pet Company	Consumer Specialties	$44.80
+VR	Validus Holdings, Ltd.	Property-Casualty Insurers	$25.07
+GLYC	GlycoMimetics, Inc.	Major Pharmaceuticals	$20.61
+ICE	Intercontinental Exchange Inc.	Investment Bankers/Brokers/Service	$29.11
+CERU	Cerulean Pharma Inc.	Major Pharmaceuticals	$29.41
+PUI	PowerShares DWA Utilities Momentum Portfolio	n/a	$18.70
+DYN.WS.A	Dynegy Inc.	n/a	$20.87
+JQC	Nuveen Credit Strategies Income Fund	n/a	$42.36
+CHU	China Unicom (Hong Kong) Ltd	Telecommunications Equipment	$31.67
+GSM	Ferroglobe PLC	Metal Fabrications	$31.20
+MDCA	MDC Partners Inc.	Advertising	$34.29
+CBIO	Catalyst Biosciences, Inc. 	Major Pharmaceuticals	$49.85
+VSDA	VictoryShares Dividend Accelerator ETF	n/a	$10.34
+ICLN	iShares S&P Global Clean Energy Index Fund	n/a	$23.74
+VTGN	VistaGen Therapeutics, Inc.	Major Pharmaceuticals	$12.20
+SPAR	Spartan Motors, Inc.	Auto Manufacturing	$38.97
+FMY	First Trust	n/a	$42.13
+YLDE	ClearBridge Dividend Strategy ESG ETF	n/a	$10.55
+EHIC	eHi Car Services Limited	Rental/Leasing Companies	$17.58
+PNC.WS	PNC Financial Services Group, Inc. (The)	n/a	$38.69
+TROX	Tronox Limited	Major Chemicals	$42.23
+TCF^B	TCF Financial Corporation	n/a	$29.50
+UDR	United Dominion Realty Trust, Inc.	Real Estate Investment Trusts	$49.33
+IGT	International Game Technology	Services-Misc. Amusement & Recreation	$25.84
+TNH	Terra Nitrogen Company, L.P.	Agricultural Chemicals	$44.20
+PER	SandRidge Permian Trust	Oil & Gas Production	$39.11
+HK	Halcon Resources Corporation	Oil & Gas Production	$40.55
+HTBX	Heat Biologics, Inc.	Major Pharmaceuticals	$13.64
+ZB^H	Zions Bancorporation	n/a	$18.32
+MTN	Vail Resorts, Inc.	Services-Misc. Amusement & Recreation	$23.75
+MNI	McClatchy Company (The)	Newspapers/Magazines	$14.14
+NBL	Noble Energy Inc.	Oil & Gas Production	$32.81
+HPP	Hudson Pacific Properties, Inc.	Real Estate	$47.84
+ITI	Iteris, Inc.	Telecommunications Equipment	$32.16
+SCD	LMP Capital and Income Fund Inc.	n/a	$32.51
+CARS	Cars.com Inc.	EDP Services	$20.21
+TVC	Tennessee Valley Authority	Electric Utilities: Central	$20.54
+EACQW	Easterly Acquisition Corp.	Building Products	$12.71
+ONTXW	Onconova Therapeutics, Inc.	Major Pharmaceuticals	$43.87
+FMCIR	Forum Merger Corporation	Business Services	$34.24
+THFF	First Financial Corporation Indiana	Major Banks	$26.64
+VTTI	VTTI Energy Partners LP	Oil Refining/Marketing	$11.32
+JEQ	Aberdeen Japan Equity Fund, Inc. 	n/a	$34.39
+WSTL	Westell Technologies, Inc.	Telecommunications Equipment	$35.84
+GBLIL	Global Indemnity Limited	Property-Casualty Insurers	$49.78
+ELY	Callaway Golf Company	Recreational Products/Toys	$13.29
+AHL^C	Aspen Insurance Holdings Limited	n/a	$35.63
+RWT	Redwood Trust, Inc.	Real Estate Investment Trusts	$49.55
+WLK	Westlake Chemical Corporation	Major Chemicals	$34.18
+SVRA	Savara, Inc.	Major Pharmaceuticals	$15.90
+EE	El Paso Electric Company	Electric Utilities: Central	$11.02
+BGR	BlackRock Energy and Resources Trust	n/a	$24.96
+MMDMR	Modern Media Acquisition Corp.	Business Services	$49.80
+PDCO	Patterson Companies, Inc.	Medical Specialities	$49.42
+KMPA	Kemper Corporation	Property-Casualty Insurers	$48.31
+ASMB	Assembly Biosciences, Inc.	Major Pharmaceuticals	$48.40
+LZB	La-Z-Boy Incorporated	Home Furnishings	$19.67
+KRO	Kronos Worldwide Inc	Major Chemicals	$26.44
+SLMBP	SLM Corporation	Finance: Consumer Services	$47.72
+QDEL	Quidel Corporation	Biotechnology: In Vitro & In Vivo Diagnostic Substances	$48.99
+CUBS	Customers Bancorp, Inc	Major Banks	$32.89
+BANC^C	Banc of California, Inc.	n/a	$26.98
+HYND	WisdomTree Negative Duration High Yield Bond Fund	n/a	$27.04
+FLDM	Fluidigm Corporation	Biotechnology: Laboratory Analytical Instruments	$23.61
+CELH	Celsius Holdings, Inc.	Beverages (Production/Distribution)	$12.83
+AMRI	Albany Molecular Research, Inc.	Biotechnology: Commercial Physical & Biological Resarch	$41.25
+SID	National Steel Company	Steel/Iron Ore	$24.48
+DS^D	Drive Shack Inc.	n/a	$30.30
+IOSP	Innospec Inc.	Major Chemicals	$15.57
+GNTY	Guaranty Bancshares, Inc.	Major Banks	$14.76
+MEDP	Medpace Holdings, Inc.	Biotechnology: Commercial Physical & Biological Resarch	$47.07
+SONS	Sonus Networks, Inc.	EDP Services	$14.93
+ATH	Athene Holding Ltd.	Life Insurance	$33.00
+FALC	FalconStor Software, Inc.	Computer Software: Prepackaged Software	$23.96
+CIVB	Civista Bancshares, Inc. 	Major Banks	$31.75
+FORTY	Formula Systems (1985) Ltd.	EDP Services	$15.26
+ICCC	ImmuCell Corporation	Biotechnology: In Vitro & In Vivo Diagnostic Substances	$15.25
+ALIM	Alimera Sciences, Inc.	Major Pharmaceuticals	$15.77
+LYV	Live Nation Entertainment, Inc.	Services-Misc. Amusement & Recreation	$24.00
+CRAY	Cray Inc	Computer Manufacturing	$21.81
+CXH	Colonial Investment Grade Municipal Trust	n/a	$45.07
+HEP	Holly Energy Partners, L.P.	Natural Gas Distribution	$27.31
+WLB	Westmoreland Coal Company	Coal Mining	$27.41
+ATI	Allegheny Technologies Incorporated	Steel/Iron Ore	$15.53
+IFEU	iShares FTSE EPRA/NAREIT Europe Index Fund	n/a	$21.70
+HMTA	HomeTown Bankshares Corporation	Major Banks	$29.37
+UTSI	UTStarcom Holdings Corp	Telecommunications Equipment	$31.88
+PVAC	Penn Virginia Corporation	Oil & Gas Production	$10.27
+DOW	Dow Chemical Company (The)	Major Chemicals	$14.89
+TUES	Tuesday Morning Corp.	Department/Specialty Retail Stores	$20.52
+MLM	Martin Marietta Materials, Inc.	Mining & Quarrying of Nonmetallic Minerals (No Fuels)	$20.63
+EFC	Ellington Financial LLC	Real Estate	$42.42
+IP	International Paper Company	Paper	$19.10
+NAV	Navistar International Corporation	Auto Manufacturing	$13.26
+PHG	Koninklijke Philips N.V.	Consumer Electronics/Appliances	$11.40
+LECO	Lincoln Electric Holdings, Inc.	Industrial Machinery/Components	$42.17
+AMH^A	American Homes 4 Rent	Real Estate Investment Trusts	$43.82
+IESC	IES Holdings, Inc.	Engineering & Construction	$35.42
+COTV	Cotiviti Holdings, Inc.	Business Services	$48.47
+GFF	Griffon Corporation	Building Products	$24.34
+MUE	Blackrock MuniHoldings Quality Fund II, Inc.	n/a	$15.34
+HPQ	HP Inc.	Computer Manufacturing	$36.12
+MMLP	Martin Midstream Partners L.P.	Oil Refining/Marketing	$48.85
+DIS	Walt Disney Company (The)	Television Services	$40.56
+BWXT	BWX Technologies, Inc.	Industrial Machinery/Components	$30.37
+RELV	Reliv' International, Inc.	Major Pharmaceuticals	$19.37
+FBC	Flagstar Bancorp, Inc.	Savings Institutions	$45.52
+TRST	TrustCo Bank Corp NY	Major Banks	$25.67
+KAMN	Kaman Corporation	Industrial Specialties	$45.78
+ZBRA	Zebra Technologies Corporation	Industrial Machinery/Components	$43.32
+XHR	Xenia Hotels & Resorts, Inc.	Hotels/Resorts	$35.14
+MPAA	Motorcar Parts of America, Inc.	Auto Parts:O.E.M.	$24.87
+SBNB	Scorpio Tankers Inc.	Marine Transportation	$18.68
+CZR	Caesars Entertainment Corporation	Hotels/Resorts	$40.71
+CHE	Chemed Corp.	Medical/Nursing Services	$11.27
+CBPX	Continental Building Products, Inc.	Building Materials	$47.88
+UNTY	Unity Bancorp, Inc.	Major Banks	$10.60
+RGT	Royce Global Value Trust, Inc.	n/a	$25.11
+HTGX	Hercules Capital, Inc.	n/a	$38.74
+BYFC	Broadway Financial Corporation	Savings Institutions	$47.58
+GBX	Greenbrier Companies, Inc. (The)	Railroads	$15.81
+MO	Altria Group	Farming/Seeds/Milling	$34.07
+AAN	Aaron's,  Inc.	Diversified Commercial Services	$28.54
+KKR	KKR & Co. L.P.	Investment Managers	$22.38
+SCZ	iShares MSCI EAFE Small-Cap ETF	n/a	$27.99
+AZRE	Azure Power Global Limited	Electric Utilities: Central	$41.89
+SNOA	Sonoma Pharmaceuticals, Inc.	Major Pharmaceuticals	$12.07
+NUS	Nu Skin Enterprises, Inc.	Other Pharmaceuticals	$13.40
+ARA	American Renal Associates Holdings, Inc	Hospital/Nursing Management	$11.46
+MHO	M/I Homes, Inc.	Homebuilding	$46.79
+SN	Sanchez Energy Corporation	Oil & Gas Production	$34.66
+CSWI	CSW Industrials, Inc.	Home Furnishings	$16.29
+CXW	CoreCivic, Inc.	Real Estate Investment Trusts	$22.41
+DCO	Ducommun Incorporated	Military/Government/Technical	$12.96
+DCT	DCT Industrial Trust Inc	Real Estate Investment Trusts	$47.78
+HTLD	Heartland Express, Inc.	Trucking Freight/Courier Services	$38.80
+QSII	Quality Systems, Inc.	EDP Services	$19.62
+IQI	Invesco Quality Municipal Income Trust	n/a	$46.81
+GOODP	Gladstone Commercial Corporation	Real Estate	$32.58
+USOI	Credit Suisse AG	Investment Bankers/Brokers/Service	$44.47
+CSLT	Castlight Health, inc.	EDP Services	$24.82
+AHPAU	Avista Healthcare Public Acquisition Corp.	Business Services	$27.57
+ICON	Iconix Brand Group, Inc.	Shoe Manufacturing	$31.29
+SHLM	A. Schulman, Inc.	Major Chemicals	$27.80
+AIY	Apollo Investment Corporation	n/a	$12.51
+QQXT	First Trust NASDAQ-100 Ex-Technology Sector Index Fund	n/a	$17.37
+CRAI	CRA International,Inc.	Other Consumer Services	$16.69
+VSTM	Verastem, Inc.	Major Pharmaceuticals	$18.66
+GAB^H	Gabelli Equity Trust, Inc. (The)	n/a	$41.34
+CVG	Convergys Corporation	EDP Services	$27.09
+BKN	BlackRock Investment Quality Municipal Trust Inc. (The)	n/a	$33.11
+SJI	South Jersey Industries, Inc.	Oil/Gas Transmission	$18.85
+LNDC	Landec Corporation	Major Chemicals	$38.69
+HTHT	China Lodging Group, Limited	Hotels/Resorts	$19.19
+MSI	Motorola Solutions, Inc.	Radio And Television Broadcasting And Communications Equipment	$42.71
+DLX	Deluxe Corporation	Publishing	$38.07
+JHA	Nuveen High Income 2020 Target Term Fund	n/a	$17.34
+IVR^A	Invesco Mortgage Capital Inc.	n/a	$45.03
+SAN	Banco Santander, S.A.	Commercial Banks	$40.50
+OGE	OGE Energy Corporation	Electric Utilities: Central	$14.41
+WFC^O	Wells Fargo & Company	n/a	$48.33
+ENIC	Enel Chile S.A.	Electric Utilities: Central	$43.23
+CZFC	Citizens First Corporation	Major Banks	$17.93
+ARWR	Arrowhead Pharmaceuticals, Inc.	Major Pharmaceuticals	$23.06
+PII	Polaris Industries Inc.	Industrial Specialties	$49.31
+FEP	First Trust Europe AlphaDEX Fund	n/a	$45.24
+PPSI	Pioneer Power Solutions, Inc.	Electrical Products	$12.36
+SMG	Scotts Miracle-Gro Company (The)	Agricultural Chemicals	$31.86
+FPO	First Potomac Realty Trust	Real Estate Investment Trusts	$12.17
+KF	Korea Fund, Inc. (The)	n/a	$16.88
+UG	United-Guardian, Inc.	Package Goods/Cosmetics	$16.50
+DRA	Diversified Real Asset Income Fund	n/a	$10.40
+COF^F	Capital One Financial Corporation	n/a	$38.24
+JPM^B	J P Morgan Chase & Co	n/a	$42.77
+EVC	Entravision Communications Corporation	Broadcasting	$43.76
+PYZ	PowerShares DWA Basic Materials Momentum Portfolio	n/a	$17.98
+GS^C	Goldman Sachs Group, Inc. (The)	n/a	$26.65
+SASR	Sandy Spring Bancorp, Inc.	Major Banks	$30.55
+LXP^C	Lexington Realty Trust	n/a	$39.14
+NCMI	National CineMedia, Inc.	Advertising	$37.18
+Y	Alleghany Corporation	Property-Casualty Insurers	$27.14
+USAK	USA Truck, Inc.	Trucking Freight/Courier Services	$36.61
+ONCS	OncoSec Medical Incorporated	Major Pharmaceuticals	$28.47
+ICPT	Intercept Pharmaceuticals, Inc.	Major Pharmaceuticals	$24.70
+OKS	ONEOK Partners, L.P.	Natural Gas Distribution	$10.73
+ALK	Alaska Air Group, Inc.	Air Freight/Delivery Services	$11.70
+APA	Apache Corporation	Oil & Gas Production	$46.66
+LXU	Lsb Industries Inc.	Major Chemicals	$30.15
+BCS	Barclays PLC	Commercial Banks	$10.19
+CPE	Callon Petroleum Company	Oil & Gas Production	$46.17
+WMLP	Westmoreland Resource Partners, LP	Coal Mining	$11.20
+CPAA	Conyers Park Acquisition Corp.	Business Services	$43.36
+ALJJ	ALJ Regional Holdings, Inc.	Business Services	$45.23
+BJZ	Blackrock California Municipal 2018 Term Trust	n/a	$16.46
+CMO	Capstead Mortgage Corporation	Real Estate Investment Trusts	$41.62
+VCSH	Vanguard Short-Term Corporate Bond ETF	n/a	$14.16
+SPG	Simon Property Group, Inc.	Real Estate Investment Trusts	$37.95
+GAIA	Gaia, Inc.	Movies/Entertainment	$39.17
+PIO	PowerShares Global Water Portfolio	n/a	$31.67
+BK	Bank Of New York Mellon Corporation (The)	Major Banks	$20.62
+CBX	CBX (Listing Market NYSE Networks AE	n/a	$43.80
+WLDN	Willdan Group, Inc.	Military/Government/Technical	$35.66
+JPM^A	J P Morgan Chase & Co	Major Banks	$14.23
+ADNT	Adient plc	Auto Parts:O.E.M.	$11.76
+ANGI	Angie's List, Inc.	Advertising	$33.59
+LSXMA	Liberty Media Corporation	Broadcasting	$23.16
+HES^A	Hess Corporation	n/a	$32.26
+DLTH	Duluth Holdings Inc.	Clothing/Shoe/Accessory Stores	$29.16
+NTRSP	Northern Trust Corporation	Major Banks	$15.91
+AEP	American Electric Power Company, Inc.	Electric Utilities: Central	$12.74
+JPM^B	J P Morgan Chase & Co	n/a	$32.85
+EGOV	NIC Inc.	Business Services	$48.02
+HAE	Haemonetics Corporation	Medical/Dental Instruments	$42.39
+ADS	Alliance Data Systems Corporation	Business Services	$13.07
+TMUS	T-Mobile US, Inc.	Telecommunications Equipment	$49.08
+ATSG	Air Transport Services Group, Inc	Air Freight/Delivery Services	$42.39
+TDJ	Telephone and Data Systems, Inc.	Telecommunications Equipment	$19.94
+ACIA	Acacia Communications, Inc.	Semiconductors	$34.97
+FBIO	Fortress Biotech, Inc.	Major Pharmaceuticals	$35.07
+CYAN	Cyanotech Corporation	Specialty Chemicals	$28.71
+CZWI	Citizens Community Bancorp, Inc.	Savings Institutions	$34.11
+NFEC	NF Energy Saving Corporation	Metal Fabrications	$38.96
+ADUS	Addus HomeCare Corporation	Medical/Nursing Services	$23.68
+CNAT	Conatus Pharmaceuticals Inc.	Major Pharmaceuticals	$29.15
+FFC	Flaherty & Crumrine Preferred Securities Income Fund Inc	n/a	$15.13
+RA	Brookfield Real Assets Income Fund Inc.	n/a	$40.98
+CNI	Canadian National Railway Company	Railroads	$39.66
+SWIR	Sierra Wireless, Inc.	Radio And Television Broadcasting And Communications Equipment	$37.56
+AGD	Alpine Global Dynamic Dividend Fund	n/a	$40.25
+KGJI	Kingold Jewelry Inc.	Business Services	$24.34
+CBMX	CombiMatrix Corporation	Hospital/Nursing Management	$41.39
+ARAY	Accuray Incorporated	Medical/Dental Instruments	$15.85
+KRNT	Kornit Digital Ltd.	Industrial Machinery/Components	$29.47
+ATXI	Avenue Therapeutics, Inc.	n/a	$16.07
+LBIO	Lion Biotechnologies, Inc.	Biotechnology: Biological Products (No Diagnostic Substances)	$20.74
+NLY^A	Annaly Capital Management Inc	n/a	$22.66
+ALR	Alere Inc.	Biotechnology: In Vitro & In Vivo Diagnostic Substances	$17.88
+WBC	Wabco Holdings Inc.	Auto Manufacturing	$23.92
+MIDD	The Middleby Corporation	Industrial Machinery/Components	$11.33
+EXC	Exelon Corporation	Power Generation	$44.41
+TRK	Speedway Motorsports, Inc.	Services-Misc. Amusement & Recreation	$46.17
+BG	Bunge Limited	Packaged Foods	$48.59
+DCUD	Dominion Energy, Inc.	Electric Utilities: Central	$35.24
+RNST	Renasant Corporation	Major Banks	$17.58
+BAC^W	Bank of America Corporation	Major Banks	$23.47
+BBOX	Black Box Corporation	Computer Communications Equipment	$22.19
+VKQ	Invesco Municipal Trust	n/a	$15.23
+PPIH	Perma-Pipe International Holdings, Inc.	Pollution Control Equipment	$11.86
+PPSI	Pioneer Power Solutions, Inc.	Electrical Products	$49.87
+OVBC	Ohio Valley Banc Corp.	Major Banks	$23.68
+COF	Capital One Financial Corporation	Major Banks	$28.17
+CMCM	Cheetah Mobile Inc.	Computer Software: Prepackaged Software	$46.53
+SB^B	Safe Bulkers, Inc	n/a	$29.03
+NETE	Net Element, Inc.	EDP Services	$25.73
+PSA^T	Public Storage	Real Estate Investment Trusts	$44.58
+VRSK	Verisk Analytics, Inc.	EDP Services	$30.14
+ESS	Essex Property Trust, Inc.	Real Estate Investment Trusts	$36.17
+SWKS	Skyworks Solutions, Inc.	Semiconductors	$47.55
+BRKS	Brooks Automation, Inc.	Industrial Machinery/Components	$13.49
+INTU	Intuit Inc.	Computer Software: Prepackaged Software	$25.09
+NLY^E	Annaly Capital Management Inc	n/a	$24.94
+ARES^A	Ares Management L.P.	n/a	$40.72
+BCTF	Bancorp 34, Inc.	Savings Institutions	$13.90
+MATR	Mattersight Corporation	EDP Services	$23.62
+DGLT	Digiliti Money Group, Inc.	Telecommunications Equipment	$10.03
+HIX	Western Asset High Income Fund II Inc.	n/a	$24.85
+MQT	Blackrock MuniYield Quality Fund II, Inc.	n/a	$37.15
+NTNX	Nutanix, Inc.	Computer Software: Prepackaged Software	$13.58
+HOG	Harley-Davidson, Inc.	Motor Vehicles	$17.02
+RFP	Resolute Forest Products Inc.	Paper	$19.22
+WPXP	WPX Energy, Inc.	Oil & Gas Production	$22.03
+CUBA	The Herzfeld Caribbean Basin Fund, Inc.	n/a	$13.29
+NEWTL	Newtek Business Services Corp.	n/a	$31.63
+KTOVW	Kitov Pharmaceuticals Holdings Ltd.	Major Pharmaceuticals	$29.01
+HTF	Horizon Technology Finance Corporation	n/a	$11.48
+ITCI	Intra-Cellular Therapies Inc.	Major Pharmaceuticals	$47.17
+BNS	Bank of Nova Scotia (The)	Major Banks	$43.32
+NVLS	Nivalis Therapeutics, Inc.	Major Pharmaceuticals	$14.63
+RFI	Cohen & Steers Total Return Realty Fund, Inc.	n/a	$16.06
+GS^A	Goldman Sachs Group, Inc. (The)	n/a	$43.92
+BKU	BankUnited, Inc.	Savings Institutions	$19.04
+TCMD	Tactile Systems Technology, Inc.	Medical/Dental Instruments	$38.01
+MYD	Blackrock MuniYield Fund, Inc.	n/a	$19.39
+DWAQ	PowerShares DWA NASDAQ Momentum Portfolio	n/a	$49.25
+IESC	IES Holdings, Inc.	Engineering & Construction	$32.13
+WEB	Web.com Group, Inc.	Computer Software: Prepackaged Software	$18.02
+ROK	Rockwell Automation, Inc.	Industrial Machinery/Components	$45.75
+CTIB	CTI Industries Corporation	Specialty Chemicals	$14.75
+FFBC	First Financial Bancorp.	Major Banks	$16.22
+MYN	Blackrock MuniYield New York Quality Fund, Inc.	n/a	$25.00
+BGC	General Cable Corporation	Telecommunications Equipment	$43.91
+CPAA	Conyers Park Acquisition Corp.	Business Services	$24.62
+DMB	Dreyfus Municipal Bond Infrastructure Fund, Inc.	n/a	$11.94
