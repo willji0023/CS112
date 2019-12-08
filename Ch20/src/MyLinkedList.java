@@ -1,7 +1,9 @@
 public class MyLinkedList<T> {
     private Node<T> last;
     private Node<T> first;
+    private int size;
 
+    // O(N)
     public String toString() {
         // efficient way to concatenate many strings together
         StringBuilder result = new StringBuilder();
@@ -13,6 +15,18 @@ public class MyLinkedList<T> {
         return result.toString();
     }
 
+    public void printInReverse(){
+        printInReverse(first);
+    }
+
+    private void printInReverse(Node ref) {
+        if (ref != null) {
+            printInReverse(ref.next);
+            System.out.println(ref.value);
+        }
+    }
+
+    // O(N) this is slow compared to ArrayList
     public T get(int index) {
         if (index < 0 || index >= size())
             throw new IndexOutOfBoundsException("Invalid index: " + index);
@@ -30,6 +44,7 @@ public class MyLinkedList<T> {
             last.next = new Node<>(value);
             last = last.next; // leap frog!
         }
+        size++;
     }
 
     // O(N) for worst case
@@ -46,11 +61,12 @@ public class MyLinkedList<T> {
             // make the connection
             ref.next = new Node<>(value, ref.next);
         }
-
         if (last.next != null)
             last = last.next;
+        size++;
     }
 
+    // O(N)
     public void remove(int index) {
         if (index < 0 || index >= size())
             throw new IndexOutOfBoundsException("Invalid index: " + index);
@@ -68,17 +84,12 @@ public class MyLinkedList<T> {
             if (ref.next == null)
                 last = ref;
         }
+        size--;
     }
 
     public boolean isEmpty() { return first == null; }
 
     public int size() {
-        int count = 0; // keep track of non-null nodes
-        Node<T> ref = first; // make a Cursor
-        while (ref != null){
-            count++;
-            ref = ref.next;
-        }
-        return count;
+        return size;
     }
 }

@@ -13,6 +13,10 @@ public class Example1 {
         t.add(3, "Y");
         t.add(t.size(), "Z");
 
+        System.out.println("Testing print in reverse");
+        t.printInReverse();
+        System.out.println("End testing");
+
         t.remove(0);
         t.remove(2);
         t.remove(6);
